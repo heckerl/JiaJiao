@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"img { width: 100%; height: 100%; }\n",],undefined,{path:"./pages/guide/guide.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/guide/guide.wxml') } }));

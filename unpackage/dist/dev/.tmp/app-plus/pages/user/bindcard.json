@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "default",
+  "navigationBarTitleText": "绑定银行卡",
+  "usingComponents": {
+    "m-input": "/components/m-input",
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

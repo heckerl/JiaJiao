@@ -1,0 +1,6 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "uni-grid": "/node-modules/@dcloudio/uni-ui/lib/uni-grid/uni-grid"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="content" bind:__l="__l"><image class="img" src="../../static/img/guide.png"></image></view>

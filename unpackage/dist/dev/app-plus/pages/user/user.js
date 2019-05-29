@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"text-button { margin-top: ",[0,30],"; width: 100%; text-align: center; background: #FFFFFF; }\n",],undefined,{path:"./pages/user/user.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/user.wxml') } }));

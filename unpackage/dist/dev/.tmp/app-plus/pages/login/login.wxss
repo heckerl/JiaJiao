@@ -1,0 +1,25 @@
+
+.top-30 {
+		margin-top: 30rpx;
+		padding-left: 20rpx;
+		padding-right: 20px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+}
+.top-30 navigator {
+        color: #007aff;
+        padding: 0 20rpx;
+		font-size: 30rpx;
+}
+

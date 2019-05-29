@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "default",
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "m-input": "/components/m-input"
+  }
+}

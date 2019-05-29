@@ -1,0 +1,9 @@
+
+.text-button {
+	margin-top: 30rpx;
+	width: 100%;
+	text-align: center;
+	background: #FFFFFF;
+}
+
+

@@ -1,0 +1,1 @@
+<view class="content" bind:__l="__l"><button data-event-opts="{{[['tap',[['cityClick',['$event']]]]]}}" class="primary" bindtap="__e">城市选择</button><w-picker class="vue-ref" mode="{{mode}}" step="1" defaultVal="{{defaultVal}}" themeColor="#f00" data-ref="picker" data-event-opts="{{[['^confirm',[['onConfirm']]]]}}" bind:confirm="__e"></w-picker></view>
